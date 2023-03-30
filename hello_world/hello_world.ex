@@ -1,3 +1,4 @@
-IO.puts("Hello, World!")
 
-name = "nyash"
+hello = "I am nyash as always"
+
+IO.puts(hello)
